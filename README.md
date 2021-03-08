@@ -8,6 +8,10 @@ ideals, beliefs, politics, and personality. The intention is to make the interne
 The underlying motivation is to deanonymize who people are as a person but not the person themselves. Limit peoples ability to lie
 without exposing people to real world harm.
 
+# Dependencies
+- emotional_alert
+- sentiment
+
 # Note
 This is not motivated by any ideology, politics, or agenda. This is being designed to unmask peoples heart's without unmasking their
 face. Everyone should use it, regardless of their reason. Shedding light on the digital world's denizens can only improve it and them.

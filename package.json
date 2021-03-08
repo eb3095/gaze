@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/eb3095/gaze/issues"
   },
-  "homepage": "https://github.com/eb3095/gaze#readme"
+  "homepage": "https://github.com/eb3095/gaze#readme",
+  "dependencies": {
+    "emotional_alert": "^2.0.5",
+    "sentiment": "^5.0.2"
+  }
 }
