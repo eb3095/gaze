@@ -5,7 +5,7 @@ Gaze is a chrome extension capable of analyzing a reddit user's history and disp
 The principle is simple. Metrics, history, and NLP used together with Personality Templates will paint a solid picture of a persons
 ideals, beliefs, politics, and personality. The intention is to make the internet more honest and eliminate gaslighting and misrepresenatation.
 
-The underlying motivation is to deanonymize whoe people are as a person but not the person themselves. Limit peoples ability to lie
+The underlying motivation is to deanonymize who people are as a person but not the person themselves. Limit peoples ability to lie
 without exposing people to real world harm.
 
 # Note
